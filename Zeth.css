@@ -8,6 +8,7 @@ div#cabecalho{
     height: 170px;
     background-color:rgba(176, 136, 104, 0.288);
     width: 1900px;
+    position:fixed;
 }
 
     
